@@ -46,7 +46,6 @@ class GroceryActivity : AppCompatActivity() {
         })
 
 
-        //Floating action button
         binding.fab.setOnClickListener {
             AddGroceryItemDialog(this,
             object : AddDialogListener {
