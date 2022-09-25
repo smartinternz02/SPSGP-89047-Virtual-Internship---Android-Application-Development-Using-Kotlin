@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2545" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable/background_search.xml" value="0.1705" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable/ic_add.xml" value="0.2545" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable/ic_delete.xml" value="0.2545" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2545" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable/ic_minus.xml" value="0.2545" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable/ic_plus.xml" value="0.2545" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/drawable/ic_search.xml" value="0.1705" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/font/font.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/font/ubuntu_bold.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/layout/activity_grocery.xml" value="0.264" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/layout/dialog_add_grocery_item.xml" value="0.264" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/layout/dialog_delete_grocery_item.xml" value="0.2" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/layout/grocery_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/layout/sample.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/menu/main_menu.xml" value="0.264" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/milin/AndroidStudioProjects/Groceria/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1705" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
